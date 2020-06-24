@@ -1,2 +1,2 @@
 # PowerBI
-Power BI reports 
+This folder contains various Power BI reports with data. 
